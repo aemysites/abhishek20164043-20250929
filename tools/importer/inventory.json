@@ -1,0 +1,4249 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news-entry/best-green-business-award-et-now",
+          "urlHash": "00635b0f24cba9be357184e83ca530caccb83506",
+          "uuid": "00635b0f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news",
+          "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+          "uuid": "01938c1e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-signs-management-contract-ihcl-launch-ama-trails",
+          "urlHash": "01a22af854ebe0f39f4a008441a29e5b80b8bd68",
+          "uuid": "01a22af8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+          "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+          "uuid": "01fa9dba-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/land-new-beginnings",
+          "urlHash": "0342160739dde5bca6c3c4809af9f4e6ee159015",
+          "uuid": "03421607-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/sitemap",
+          "urlHash": "044feb8595e401c38f164d5267d7d1ebbaa06edc",
+          "uuid": "044feb85-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/494",
+          "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+          "uuid": "04c0f05b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/383",
+          "urlHash": "0535ef77bb63d44b09a2cc9716935f5767434b4d",
+          "uuid": "0535ef77-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/500",
+          "urlHash": "0bfdb50b5ad7d61921676ed3c7a8384796263a8d",
+          "uuid": "0bfdb50b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/world-famously-yet-homely",
+          "urlHash": "1200e1511e6ff4c330cf2a7b5d7c27d961ad7ad5",
+          "uuid": "1200e151-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/118",
+          "urlHash": "132b9ee5648f7f4d5989cc2715b707e7b4288db4",
+          "uuid": "132b9ee5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/465",
+          "urlHash": "14b0996a7dd478c80fba511ac50fa72610ef579e",
+          "uuid": "14b0996a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rd-laboratory",
+          "urlHash": "1b7e1afe069aef41d1b097a290657ad59222c363",
+          "uuid": "1b7e1afe-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/79",
+          "urlHash": "1c09008b86353060ed5e91357495bb54d992b120",
+          "uuid": "1c09008b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/contact-us",
+          "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+          "uuid": "1d2dd80e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy",
+          "urlHash": "1ff6c49f79122992d4f4bc39a266914a75fcf61e",
+          "uuid": "1ff6c49f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/investors-relations",
+          "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+          "uuid": "22e38be4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/pepper-vines-and-coffee-beans",
+          "urlHash": "274efdb0d75c770a0e57ff0ad2509f0627e28b4c",
+          "uuid": "274efdb0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rural-india-health-project-rihp-aligned-sustainable-development-goal-3-set-united-nations",
+          "urlHash": "28cf1e964d191217d0a62242ba08e9b04ab5cc10",
+          "uuid": "28cf1e96-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/mission-and-values",
+          "urlHash": "2bdbf799b66024d51b662f8e2ce0975a7474a57f",
+          "uuid": "2bdbf799-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/town-so-quaint-and-serene",
+          "urlHash": "2d103f616be32118bde0d81b33047cf69f8df758",
+          "uuid": "2d103f61-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/bountiful-pure",
+          "urlHash": "2e3e9a07df950ffa254a6b029a355c27c747371a",
+          "uuid": "2e3e9a07-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/490",
+          "urlHash": "2e77c2dfca64e87193bd0c8f78c6a51a29c249c8",
+          "uuid": "2e77c2df-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/proud-have-our-mylemoney-estate-feature-nespressos-explorations-2018",
+          "urlHash": "3f8ee28b9b24b5d7e1b6687b4cea6491090c8369",
+          "uuid": "3f8ee28b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/130",
+          "urlHash": "453b788a3deebf5e1af7ccf312f6ab288b53f52c",
+          "uuid": "453b788a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=2",
+          "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+          "uuid": "45a17b29-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=1",
+          "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+          "uuid": "45d34465-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/382",
+          "urlHash": "49676dd76e003abb1abeb8297732fc6362a74fd0",
+          "uuid": "49676dd7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/482",
+          "urlHash": "50956ad30f6085b783c4896f4a53689790e4e328",
+          "uuid": "50956ad3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/887",
+          "urlHash": "519d82b2124a32340616cc60980864f7ebd946d0",
+          "uuid": "519d82b2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/483",
+          "urlHash": "552069dc2e32e76c23d5bbf76b9e8807e529b286",
+          "uuid": "552069dc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/indias-most-trusted-companies-awards-2017",
+          "urlHash": "55c5c442aa377b608b75b346fae9805783f8647d",
+          "uuid": "55c5c442-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/about-us/mission-and-values",
+          "urlHash": "58dbdb1d59ebd2aa38ef8301c0b155bdc594ace6",
+          "uuid": "58dbdb1d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rain-water-harvesting",
+          "urlHash": "5d1215577c8fb03c507ae22327d87086bc78ca93",
+          "uuid": "5d121557-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-ernesto-illy-award-new-york-best-indian-coffee-producer",
+          "urlHash": "5fa9b5aae7009cd2d145536ccec809ce2590e72f",
+          "uuid": "5fa9b5aa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/cold-mountains-beckon",
+          "urlHash": "616cfadbc38d395b312c568bb86ba8ac1cb39cf2",
+          "uuid": "616cfadb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee%E2%80%99s-jumboor-estate-receives-honours-sixth-ernesto-illy-international-coffee",
+          "urlHash": "63354e999f6862a366f46798d10ce982895f82f2",
+          "uuid": "63354e99-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/888",
+          "urlHash": "6374fd01291f8b169c762eaea9d53e33a4085c59",
+          "uuid": "6374fd01-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/80",
+          "urlHash": "64136a633d356e083312c131deac95b008c43a8a",
+          "uuid": "64136a63-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/484",
+          "urlHash": "6694cc1bc5d7bf8c8c5050c3ddebd4c85155274f",
+          "uuid": "6694cc1b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/661",
+          "urlHash": "66dfcf263d62084cba833198c2402f7ceb4141df",
+          "uuid": "66dfcf26-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sitemap",
+          "urlHash": "691c10d3c86da2f578342033ac2c4060b89f8c10",
+          "uuid": "691c10d3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/571",
+          "urlHash": "6c6395578ddbb4a419f3a465f32be48b9affbf41",
+          "uuid": "6c639557-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/567",
+          "urlHash": "6d3abd2edc7838ca03ad452b2ee520a5b3afe1dc",
+          "uuid": "6d3abd2e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/tata-coffee-employees-volunteered-create-bangalore-first-ever-community-garden",
+          "urlHash": "6f868bfd924c59daac1877bef64a78e606b0703d",
+          "uuid": "6f868bfd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/302",
+          "urlHash": "74a3249c31c9cce0e8940b0447d80812092e3a87",
+          "uuid": "74a3249c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/549",
+          "urlHash": "7686e2c04b7dcbfc64ec60e38e40f589e8d2e2f5",
+          "uuid": "7686e2c0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/690",
+          "urlHash": "77facb969b7a7545f1091901372ab0083a83cab4",
+          "uuid": "77facb96-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/so-full-mist-and-morning-light",
+          "urlHash": "7b7bcab21ed6230db917b56a76bc3825af9f9a97",
+          "uuid": "7b7bcab2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/570",
+          "urlHash": "7f50e8f9302b08f157e66363abb8ea995c449e3e",
+          "uuid": "7f50e8f9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy-policy",
+          "urlHash": "7f7d8fef78848c553a347e0ec0d91e0feb9b1409",
+          "uuid": "7f7d8fef-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/cookies",
+          "urlHash": "7f82363d6f90c85f697f11dd885ac5dded3cec44",
+          "uuid": "7f82363d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-00-39688f440a8d5a71e284ae1af60a2b0cdc8aca48",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-cii-award-workplace-safety",
+          "urlHash": "876734782f3289655af4e42f47a2bdfa90e0753d",
+          "uuid": "87673478-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/152",
+          "urlHash": "880ae795a8441adc8d23ff5a18bcc18967daecdc",
+          "uuid": "880ae795-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/469",
+          "urlHash": "8acf399bb184682efaf412c24eff935c66a5cfec",
+          "uuid": "8acf399b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/160",
+          "urlHash": "8d680b273fe35ca5934a597125c10030a7073435",
+          "uuid": "8d680b27-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/building-truly-sustainable-supply-chain",
+          "urlHash": "9219f7f0484565231128af2c8afa5c74a29071c8",
+          "uuid": "9219f7f0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news?page=1",
+          "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+          "uuid": "98d22ebf-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/where-gods-descend",
+          "urlHash": "a0bf52199b39ce6e9178338af59acfa39577074c",
+          "uuid": "a0bf5219-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/sustainable-coffee-challenge",
+          "urlHash": "a0f3613b77304cde3b2bd8a742bde69bcce9715e",
+          "uuid": "a0f3613b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/439",
+          "urlHash": "a23caca7440866f84a93398f8e34cd550f5a452d",
+          "uuid": "a23caca7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/looking-ahead-seeking-world-unseen",
+          "urlHash": "a2d03d602ae9674c5e84997885e272b79c2f90a7",
+          "uuid": "a2d03d60-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invoverview-top-header/investor-overview-banner-text",
+          "urlHash": "a906742a914ae0670a85443db41a90af5723da0e",
+          "uuid": "a906742a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/464",
+          "urlHash": "b1b19b4b6c62731275edf1c87ef92634ec5053bf",
+          "uuid": "b1b19b4b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/great-coffee-does-not-just-happen",
+          "urlHash": "b66c196a363d0e63df3867800ab92e3f546575ed",
+          "uuid": "b66c196a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/story-my-life-robusta-stump-banjigerrey-division",
+          "urlHash": "b671bfa6f99694148fb50f30ee7bae19c86131f3",
+          "uuid": "b671bfa6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/414",
+          "urlHash": "b90da3b512694b9335be6ca0839228c858c02e0f",
+          "uuid": "b90da3b5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/481",
+          "urlHash": "b9ccdc941b5e3b7a3ce9f83591120fa102221aaa",
+          "uuid": "b9ccdc94-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-begins-supplying-homegrown-blend-starbucks-globally",
+          "urlHash": "bb8cd3edac61144dcc7026f96c8a237727c91918",
+          "uuid": "bb8cd3ed-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/events/78th-agm-webcast",
+          "urlHash": "bc41bef7325bbf9037519120fc68baf1272a209e",
+          "uuid": "bc41bef7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs",
+          "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+          "uuid": "bcf9bd99-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/495",
+          "urlHash": "be6e51c565a13a892a035ff3f82d00cbde7ba29e",
+          "uuid": "be6e51c5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/diversification-tata-coffee",
+          "urlHash": "c09c52e4a6dbfdb69566d9417b7d3cddbfe679fb",
+          "uuid": "c09c52e4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/shareholder-information-top-banner",
+          "urlHash": "c206e5ac827d8745e70c0f7322f02e93399d0027",
+          "uuid": "c206e5ac-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/593",
+          "urlHash": "c27473dc3a23fbf55d9376770aa424cbea4326ee",
+          "uuid": "c27473dc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/when-simple-efforts-team-building-and-camaraderie-went-long-way-tata-coffee",
+          "urlHash": "c6857951c4d20d262df3ac9cdbf625bad16257fe",
+          "uuid": "c6857951-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/497",
+          "urlHash": "d5a510ed60a3b0f5d02fbed31eb006c67bfa9a48",
+          "uuid": "d5a510ed-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/investors-relations-top-banner",
+          "urlHash": "d692f66c52aa94604f6786e07e591341352f1e47",
+          "uuid": "d692f66c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/we-are-cups-constantly-and-quietly-being-filled",
+          "urlHash": "d76a3d7427a000eb78fbdacc435e98cc061b759a",
+          "uuid": "d76a3d74-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-md-addresses-international-spice-conference",
+          "urlHash": "d9274b4044a438f7e0fb1e4ff33926f11da1a112",
+          "uuid": "d9274b40-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/124",
+          "urlHash": "d9e8ca3a9599d131c2ecdcd3963078eb79d95b09",
+          "uuid": "d9e8ca3a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/468",
+          "urlHash": "da60131e20e76eb57ff9efc3eb100621e14dcbed",
+          "uuid": "da60131e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/wildlife-cell",
+          "urlHash": "ded85072e1a996ee27d2b567b2426bcc73fb1cea",
+          "uuid": "ded85072-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/562",
+          "urlHash": "e39226d1cbc29992e4e92a7cc344551c57809776",
+          "uuid": "e39226d1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/curated-best-plantations",
+          "urlHash": "e461828276bf09919a9ee00039ba558cbfda775e",
+          "uuid": "e4618282-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/day-life-tata-coffee-customer",
+          "urlHash": "e52a469c12ecdcf44bf35fb448fc43f08f43b245",
+          "uuid": "e52a469c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/496",
+          "urlHash": "e67e694e93e41e4d5124bc996064b261bbc943cb",
+          "uuid": "e67e694e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/three-tata-coffee-pepper-nurseries-accredited-dasd",
+          "urlHash": "f116e951e7ec9cdeacd202b4df880921e5115dd9",
+          "uuid": "f116e951-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/415",
+          "urlHash": "f265262cbd593aa821feeef47e5f2a97c0d40e57",
+          "uuid": "f265262c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/561",
+          "urlHash": "f2d458158097f63808be93c556236c000b214452",
+          "uuid": "f2d45815-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-launches-e-commerce-platform",
+          "urlHash": "f474c0211f4fba1fb032f6fbed094c73ad765f20",
+          "uuid": "f474c021-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/arr-carbon-project",
+          "urlHash": "f911be1d204937910f8aa73728fe315b488b6234",
+          "uuid": "f911be1d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ],
+      "styles": {
+        "height": 81
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news-entry/best-green-business-award-et-now",
+          "urlHash": "00635b0f24cba9be357184e83ca530caccb83506",
+          "uuid": "00635b0f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news",
+          "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+          "uuid": "01938c1e-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-signs-management-contract-ihcl-launch-ama-trails",
+          "urlHash": "01a22af854ebe0f39f4a008441a29e5b80b8bd68",
+          "uuid": "01a22af8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+          "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+          "uuid": "01fa9dba-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/land-new-beginnings",
+          "urlHash": "0342160739dde5bca6c3c4809af9f4e6ee159015",
+          "uuid": "03421607-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/sitemap",
+          "urlHash": "044feb8595e401c38f164d5267d7d1ebbaa06edc",
+          "uuid": "044feb85-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/494",
+          "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+          "uuid": "04c0f05b-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/383",
+          "urlHash": "0535ef77bb63d44b09a2cc9716935f5767434b4d",
+          "uuid": "0535ef77-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/500",
+          "urlHash": "0bfdb50b5ad7d61921676ed3c7a8384796263a8d",
+          "uuid": "0bfdb50b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/world-famously-yet-homely",
+          "urlHash": "1200e1511e6ff4c330cf2a7b5d7c27d961ad7ad5",
+          "uuid": "1200e151-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/118",
+          "urlHash": "132b9ee5648f7f4d5989cc2715b707e7b4288db4",
+          "uuid": "132b9ee5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/465",
+          "urlHash": "14b0996a7dd478c80fba511ac50fa72610ef579e",
+          "uuid": "14b0996a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rd-laboratory",
+          "urlHash": "1b7e1afe069aef41d1b097a290657ad59222c363",
+          "uuid": "1b7e1afe-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/79",
+          "urlHash": "1c09008b86353060ed5e91357495bb54d992b120",
+          "uuid": "1c09008b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/contact-us",
+          "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+          "uuid": "1d2dd80e-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy",
+          "urlHash": "1ff6c49f79122992d4f4bc39a266914a75fcf61e",
+          "uuid": "1ff6c49f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/investors-relations",
+          "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+          "uuid": "22e38be4-07-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/pepper-vines-and-coffee-beans",
+          "urlHash": "274efdb0d75c770a0e57ff0ad2509f0627e28b4c",
+          "uuid": "274efdb0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rural-india-health-project-rihp-aligned-sustainable-development-goal-3-set-united-nations",
+          "urlHash": "28cf1e964d191217d0a62242ba08e9b04ab5cc10",
+          "uuid": "28cf1e96-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/mission-and-values",
+          "urlHash": "2bdbf799b66024d51b662f8e2ce0975a7474a57f",
+          "uuid": "2bdbf799-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/town-so-quaint-and-serene",
+          "urlHash": "2d103f616be32118bde0d81b33047cf69f8df758",
+          "uuid": "2d103f61-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/bountiful-pure",
+          "urlHash": "2e3e9a07df950ffa254a6b029a355c27c747371a",
+          "uuid": "2e3e9a07-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/490",
+          "urlHash": "2e77c2dfca64e87193bd0c8f78c6a51a29c249c8",
+          "uuid": "2e77c2df-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-13-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-07-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/proud-have-our-mylemoney-estate-feature-nespressos-explorations-2018",
+          "urlHash": "3f8ee28b9b24b5d7e1b6687b4cea6491090c8369",
+          "uuid": "3f8ee28b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/130",
+          "urlHash": "453b788a3deebf5e1af7ccf312f6ab288b53f52c",
+          "uuid": "453b788a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=2",
+          "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+          "uuid": "45a17b29-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=1",
+          "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+          "uuid": "45d34465-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/382",
+          "urlHash": "49676dd76e003abb1abeb8297732fc6362a74fd0",
+          "uuid": "49676dd7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/482",
+          "urlHash": "50956ad30f6085b783c4896f4a53689790e4e328",
+          "uuid": "50956ad3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-08-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/887",
+          "urlHash": "519d82b2124a32340616cc60980864f7ebd946d0",
+          "uuid": "519d82b2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/483",
+          "urlHash": "552069dc2e32e76c23d5bbf76b9e8807e529b286",
+          "uuid": "552069dc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/indias-most-trusted-companies-awards-2017",
+          "urlHash": "55c5c442aa377b608b75b346fae9805783f8647d",
+          "uuid": "55c5c442-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/about-us/mission-and-values",
+          "urlHash": "58dbdb1d59ebd2aa38ef8301c0b155bdc594ace6",
+          "uuid": "58dbdb1d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rain-water-harvesting",
+          "urlHash": "5d1215577c8fb03c507ae22327d87086bc78ca93",
+          "uuid": "5d121557-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-ernesto-illy-award-new-york-best-indian-coffee-producer",
+          "urlHash": "5fa9b5aae7009cd2d145536ccec809ce2590e72f",
+          "uuid": "5fa9b5aa-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/cold-mountains-beckon",
+          "urlHash": "616cfadbc38d395b312c568bb86ba8ac1cb39cf2",
+          "uuid": "616cfadb-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee%E2%80%99s-jumboor-estate-receives-honours-sixth-ernesto-illy-international-coffee",
+          "urlHash": "63354e999f6862a366f46798d10ce982895f82f2",
+          "uuid": "63354e99-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/888",
+          "urlHash": "6374fd01291f8b169c762eaea9d53e33a4085c59",
+          "uuid": "6374fd01-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/80",
+          "urlHash": "64136a633d356e083312c131deac95b008c43a8a",
+          "uuid": "64136a63-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/484",
+          "urlHash": "6694cc1bc5d7bf8c8c5050c3ddebd4c85155274f",
+          "uuid": "6694cc1b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/661",
+          "urlHash": "66dfcf263d62084cba833198c2402f7ceb4141df",
+          "uuid": "66dfcf26-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sitemap",
+          "urlHash": "691c10d3c86da2f578342033ac2c4060b89f8c10",
+          "uuid": "691c10d3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/571",
+          "urlHash": "6c6395578ddbb4a419f3a465f32be48b9affbf41",
+          "uuid": "6c639557-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/567",
+          "urlHash": "6d3abd2edc7838ca03ad452b2ee520a5b3afe1dc",
+          "uuid": "6d3abd2e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/tata-coffee-employees-volunteered-create-bangalore-first-ever-community-garden",
+          "urlHash": "6f868bfd924c59daac1877bef64a78e606b0703d",
+          "uuid": "6f868bfd-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/302",
+          "urlHash": "74a3249c31c9cce0e8940b0447d80812092e3a87",
+          "uuid": "74a3249c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/549",
+          "urlHash": "7686e2c04b7dcbfc64ec60e38e40f589e8d2e2f5",
+          "uuid": "7686e2c0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/690",
+          "urlHash": "77facb969b7a7545f1091901372ab0083a83cab4",
+          "uuid": "77facb96-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/so-full-mist-and-morning-light",
+          "urlHash": "7b7bcab21ed6230db917b56a76bc3825af9f9a97",
+          "uuid": "7b7bcab2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/570",
+          "urlHash": "7f50e8f9302b08f157e66363abb8ea995c449e3e",
+          "uuid": "7f50e8f9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy-policy",
+          "urlHash": "7f7d8fef78848c553a347e0ec0d91e0feb9b1409",
+          "uuid": "7f7d8fef-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/cookies",
+          "urlHash": "7f82363d6f90c85f697f11dd885ac5dded3cec44",
+          "uuid": "7f82363d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-cii-award-workplace-safety",
+          "urlHash": "876734782f3289655af4e42f47a2bdfa90e0753d",
+          "uuid": "87673478-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/152",
+          "urlHash": "880ae795a8441adc8d23ff5a18bcc18967daecdc",
+          "uuid": "880ae795-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/469",
+          "urlHash": "8acf399bb184682efaf412c24eff935c66a5cfec",
+          "uuid": "8acf399b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/160",
+          "urlHash": "8d680b273fe35ca5934a597125c10030a7073435",
+          "uuid": "8d680b27-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/building-truly-sustainable-supply-chain",
+          "urlHash": "9219f7f0484565231128af2c8afa5c74a29071c8",
+          "uuid": "9219f7f0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news?page=1",
+          "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+          "uuid": "98d22ebf-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/where-gods-descend",
+          "urlHash": "a0bf52199b39ce6e9178338af59acfa39577074c",
+          "uuid": "a0bf5219-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/sustainable-coffee-challenge",
+          "urlHash": "a0f3613b77304cde3b2bd8a742bde69bcce9715e",
+          "uuid": "a0f3613b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/439",
+          "urlHash": "a23caca7440866f84a93398f8e34cd550f5a452d",
+          "uuid": "a23caca7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/looking-ahead-seeking-world-unseen",
+          "urlHash": "a2d03d602ae9674c5e84997885e272b79c2f90a7",
+          "uuid": "a2d03d60-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invoverview-top-header/investor-overview-banner-text",
+          "urlHash": "a906742a914ae0670a85443db41a90af5723da0e",
+          "uuid": "a906742a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/464",
+          "urlHash": "b1b19b4b6c62731275edf1c87ef92634ec5053bf",
+          "uuid": "b1b19b4b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-10-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/great-coffee-does-not-just-happen",
+          "urlHash": "b66c196a363d0e63df3867800ab92e3f546575ed",
+          "uuid": "b66c196a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/story-my-life-robusta-stump-banjigerrey-division",
+          "urlHash": "b671bfa6f99694148fb50f30ee7bae19c86131f3",
+          "uuid": "b671bfa6-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/414",
+          "urlHash": "b90da3b512694b9335be6ca0839228c858c02e0f",
+          "uuid": "b90da3b5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/481",
+          "urlHash": "b9ccdc941b5e3b7a3ce9f83591120fa102221aaa",
+          "uuid": "b9ccdc94-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-08-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-begins-supplying-homegrown-blend-starbucks-globally",
+          "urlHash": "bb8cd3edac61144dcc7026f96c8a237727c91918",
+          "uuid": "bb8cd3ed-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/events/78th-agm-webcast",
+          "urlHash": "bc41bef7325bbf9037519120fc68baf1272a209e",
+          "uuid": "bc41bef7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs",
+          "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+          "uuid": "bcf9bd99-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/495",
+          "urlHash": "be6e51c565a13a892a035ff3f82d00cbde7ba29e",
+          "uuid": "be6e51c5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/diversification-tata-coffee",
+          "urlHash": "c09c52e4a6dbfdb69566d9417b7d3cddbfe679fb",
+          "uuid": "c09c52e4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/shareholder-information-top-banner",
+          "urlHash": "c206e5ac827d8745e70c0f7322f02e93399d0027",
+          "uuid": "c206e5ac-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/593",
+          "urlHash": "c27473dc3a23fbf55d9376770aa424cbea4326ee",
+          "uuid": "c27473dc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/when-simple-efforts-team-building-and-camaraderie-went-long-way-tata-coffee",
+          "urlHash": "c6857951c4d20d262df3ac9cdbf625bad16257fe",
+          "uuid": "c6857951-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/497",
+          "urlHash": "d5a510ed60a3b0f5d02fbed31eb006c67bfa9a48",
+          "uuid": "d5a510ed-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/investors-relations-top-banner",
+          "urlHash": "d692f66c52aa94604f6786e07e591341352f1e47",
+          "uuid": "d692f66c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/we-are-cups-constantly-and-quietly-being-filled",
+          "urlHash": "d76a3d7427a000eb78fbdacc435e98cc061b759a",
+          "uuid": "d76a3d74-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-md-addresses-international-spice-conference",
+          "urlHash": "d9274b4044a438f7e0fb1e4ff33926f11da1a112",
+          "uuid": "d9274b40-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/124",
+          "urlHash": "d9e8ca3a9599d131c2ecdcd3963078eb79d95b09",
+          "uuid": "d9e8ca3a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/468",
+          "urlHash": "da60131e20e76eb57ff9efc3eb100621e14dcbed",
+          "uuid": "da60131e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/wildlife-cell",
+          "urlHash": "ded85072e1a996ee27d2b567b2426bcc73fb1cea",
+          "uuid": "ded85072-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/562",
+          "urlHash": "e39226d1cbc29992e4e92a7cc344551c57809776",
+          "uuid": "e39226d1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/curated-best-plantations",
+          "urlHash": "e461828276bf09919a9ee00039ba558cbfda775e",
+          "uuid": "e4618282-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/day-life-tata-coffee-customer",
+          "urlHash": "e52a469c12ecdcf44bf35fb448fc43f08f43b245",
+          "uuid": "e52a469c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/496",
+          "urlHash": "e67e694e93e41e4d5124bc996064b261bbc943cb",
+          "uuid": "e67e694e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-37-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/three-tata-coffee-pepper-nurseries-accredited-dasd",
+          "urlHash": "f116e951e7ec9cdeacd202b4df880921e5115dd9",
+          "uuid": "f116e951-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/415",
+          "urlHash": "f265262cbd593aa821feeef47e5f2a97c0d40e57",
+          "uuid": "f265262c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/561",
+          "urlHash": "f2d458158097f63808be93c556236c000b214452",
+          "uuid": "f2d45815-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-launches-e-commerce-platform",
+          "urlHash": "f474c0211f4fba1fb032f6fbed094c73ad765f20",
+          "uuid": "f474c021-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-14-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/arr-carbon-project",
+          "urlHash": "f911be1d204937910f8aa73728fe315b488b6234",
+          "uuid": "f911be1d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(51, 51, 51) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns block",
+      "target": "Columns block (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-06-b77082a16affbd7869ca1b49ad0978d921ae64b4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages2)",
+      "key": "cardsNoImages2",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-13-9743c3c67451cd52aa8ae0b8b75cb64b104e5263",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[13]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns block",
+      "target": "Columns block (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-02-12110326cb8237e464c7b161f925ac0bc2f4dc16",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns block",
+      "target": "Columns block (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-03-9a5e0ce329a7299a692788ca6255fd625f4a4659",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages5)",
+      "key": "cardsNoImages5",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-05-6567a661ef0e715ae2662e472dc90fda64d69bfa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=1",
+          "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+          "uuid": "45d34465-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs",
+          "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+          "uuid": "bcf9bd99-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns block",
+      "target": "Columns block (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news-entry/best-green-business-award-et-now",
+          "urlHash": "00635b0f24cba9be357184e83ca530caccb83506",
+          "uuid": "00635b0f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news",
+          "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+          "uuid": "01938c1e-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-signs-management-contract-ihcl-launch-ama-trails",
+          "urlHash": "01a22af854ebe0f39f4a008441a29e5b80b8bd68",
+          "uuid": "01a22af8-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+          "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+          "uuid": "01fa9dba-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/land-new-beginnings",
+          "urlHash": "0342160739dde5bca6c3c4809af9f4e6ee159015",
+          "uuid": "03421607-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/sitemap",
+          "urlHash": "044feb8595e401c38f164d5267d7d1ebbaa06edc",
+          "uuid": "044feb85-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/494",
+          "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+          "uuid": "04c0f05b-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/383",
+          "urlHash": "0535ef77bb63d44b09a2cc9716935f5767434b4d",
+          "uuid": "0535ef77-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/500",
+          "urlHash": "0bfdb50b5ad7d61921676ed3c7a8384796263a8d",
+          "uuid": "0bfdb50b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/world-famously-yet-homely",
+          "urlHash": "1200e1511e6ff4c330cf2a7b5d7c27d961ad7ad5",
+          "uuid": "1200e151-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/118",
+          "urlHash": "132b9ee5648f7f4d5989cc2715b707e7b4288db4",
+          "uuid": "132b9ee5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/465",
+          "urlHash": "14b0996a7dd478c80fba511ac50fa72610ef579e",
+          "uuid": "14b0996a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rd-laboratory",
+          "urlHash": "1b7e1afe069aef41d1b097a290657ad59222c363",
+          "uuid": "1b7e1afe-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/79",
+          "urlHash": "1c09008b86353060ed5e91357495bb54d992b120",
+          "uuid": "1c09008b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/contact-us",
+          "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+          "uuid": "1d2dd80e-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy",
+          "urlHash": "1ff6c49f79122992d4f4bc39a266914a75fcf61e",
+          "uuid": "1ff6c49f-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/investors-relations",
+          "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+          "uuid": "22e38be4-07-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/pepper-vines-and-coffee-beans",
+          "urlHash": "274efdb0d75c770a0e57ff0ad2509f0627e28b4c",
+          "uuid": "274efdb0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rural-india-health-project-rihp-aligned-sustainable-development-goal-3-set-united-nations",
+          "urlHash": "28cf1e964d191217d0a62242ba08e9b04ab5cc10",
+          "uuid": "28cf1e96-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/mission-and-values",
+          "urlHash": "2bdbf799b66024d51b662f8e2ce0975a7474a57f",
+          "uuid": "2bdbf799-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/town-so-quaint-and-serene",
+          "urlHash": "2d103f616be32118bde0d81b33047cf69f8df758",
+          "uuid": "2d103f61-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/bountiful-pure",
+          "urlHash": "2e3e9a07df950ffa254a6b029a355c27c747371a",
+          "uuid": "2e3e9a07-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/490",
+          "urlHash": "2e77c2dfca64e87193bd0c8f78c6a51a29c249c8",
+          "uuid": "2e77c2df-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-13-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-07-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/proud-have-our-mylemoney-estate-feature-nespressos-explorations-2018",
+          "urlHash": "3f8ee28b9b24b5d7e1b6687b4cea6491090c8369",
+          "uuid": "3f8ee28b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/130",
+          "urlHash": "453b788a3deebf5e1af7ccf312f6ab288b53f52c",
+          "uuid": "453b788a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=2",
+          "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+          "uuid": "45a17b29-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=1",
+          "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+          "uuid": "45d34465-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/382",
+          "urlHash": "49676dd76e003abb1abeb8297732fc6362a74fd0",
+          "uuid": "49676dd7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/482",
+          "urlHash": "50956ad30f6085b783c4896f4a53689790e4e328",
+          "uuid": "50956ad3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-08-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/887",
+          "urlHash": "519d82b2124a32340616cc60980864f7ebd946d0",
+          "uuid": "519d82b2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/483",
+          "urlHash": "552069dc2e32e76c23d5bbf76b9e8807e529b286",
+          "uuid": "552069dc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/indias-most-trusted-companies-awards-2017",
+          "urlHash": "55c5c442aa377b608b75b346fae9805783f8647d",
+          "uuid": "55c5c442-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/about-us/mission-and-values",
+          "urlHash": "58dbdb1d59ebd2aa38ef8301c0b155bdc594ace6",
+          "uuid": "58dbdb1d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rain-water-harvesting",
+          "urlHash": "5d1215577c8fb03c507ae22327d87086bc78ca93",
+          "uuid": "5d121557-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-ernesto-illy-award-new-york-best-indian-coffee-producer",
+          "urlHash": "5fa9b5aae7009cd2d145536ccec809ce2590e72f",
+          "uuid": "5fa9b5aa-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/cold-mountains-beckon",
+          "urlHash": "616cfadbc38d395b312c568bb86ba8ac1cb39cf2",
+          "uuid": "616cfadb-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee%E2%80%99s-jumboor-estate-receives-honours-sixth-ernesto-illy-international-coffee",
+          "urlHash": "63354e999f6862a366f46798d10ce982895f82f2",
+          "uuid": "63354e99-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/888",
+          "urlHash": "6374fd01291f8b169c762eaea9d53e33a4085c59",
+          "uuid": "6374fd01-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/80",
+          "urlHash": "64136a633d356e083312c131deac95b008c43a8a",
+          "uuid": "64136a63-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/484",
+          "urlHash": "6694cc1bc5d7bf8c8c5050c3ddebd4c85155274f",
+          "uuid": "6694cc1b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/661",
+          "urlHash": "66dfcf263d62084cba833198c2402f7ceb4141df",
+          "uuid": "66dfcf26-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sitemap",
+          "urlHash": "691c10d3c86da2f578342033ac2c4060b89f8c10",
+          "uuid": "691c10d3-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/571",
+          "urlHash": "6c6395578ddbb4a419f3a465f32be48b9affbf41",
+          "uuid": "6c639557-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/567",
+          "urlHash": "6d3abd2edc7838ca03ad452b2ee520a5b3afe1dc",
+          "uuid": "6d3abd2e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/tata-coffee-employees-volunteered-create-bangalore-first-ever-community-garden",
+          "urlHash": "6f868bfd924c59daac1877bef64a78e606b0703d",
+          "uuid": "6f868bfd-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/302",
+          "urlHash": "74a3249c31c9cce0e8940b0447d80812092e3a87",
+          "uuid": "74a3249c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/549",
+          "urlHash": "7686e2c04b7dcbfc64ec60e38e40f589e8d2e2f5",
+          "uuid": "7686e2c0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/690",
+          "urlHash": "77facb969b7a7545f1091901372ab0083a83cab4",
+          "uuid": "77facb96-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/so-full-mist-and-morning-light",
+          "urlHash": "7b7bcab21ed6230db917b56a76bc3825af9f9a97",
+          "uuid": "7b7bcab2-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/570",
+          "urlHash": "7f50e8f9302b08f157e66363abb8ea995c449e3e",
+          "uuid": "7f50e8f9-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy-policy",
+          "urlHash": "7f7d8fef78848c553a347e0ec0d91e0feb9b1409",
+          "uuid": "7f7d8fef-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/cookies",
+          "urlHash": "7f82363d6f90c85f697f11dd885ac5dded3cec44",
+          "uuid": "7f82363d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-cii-award-workplace-safety",
+          "urlHash": "876734782f3289655af4e42f47a2bdfa90e0753d",
+          "uuid": "87673478-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/152",
+          "urlHash": "880ae795a8441adc8d23ff5a18bcc18967daecdc",
+          "uuid": "880ae795-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/469",
+          "urlHash": "8acf399bb184682efaf412c24eff935c66a5cfec",
+          "uuid": "8acf399b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/160",
+          "urlHash": "8d680b273fe35ca5934a597125c10030a7073435",
+          "uuid": "8d680b27-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/building-truly-sustainable-supply-chain",
+          "urlHash": "9219f7f0484565231128af2c8afa5c74a29071c8",
+          "uuid": "9219f7f0-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news?page=1",
+          "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+          "uuid": "98d22ebf-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/where-gods-descend",
+          "urlHash": "a0bf52199b39ce6e9178338af59acfa39577074c",
+          "uuid": "a0bf5219-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/sustainable-coffee-challenge",
+          "urlHash": "a0f3613b77304cde3b2bd8a742bde69bcce9715e",
+          "uuid": "a0f3613b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/439",
+          "urlHash": "a23caca7440866f84a93398f8e34cd550f5a452d",
+          "uuid": "a23caca7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/looking-ahead-seeking-world-unseen",
+          "urlHash": "a2d03d602ae9674c5e84997885e272b79c2f90a7",
+          "uuid": "a2d03d60-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invoverview-top-header/investor-overview-banner-text",
+          "urlHash": "a906742a914ae0670a85443db41a90af5723da0e",
+          "uuid": "a906742a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/464",
+          "urlHash": "b1b19b4b6c62731275edf1c87ef92634ec5053bf",
+          "uuid": "b1b19b4b-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-10-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/great-coffee-does-not-just-happen",
+          "urlHash": "b66c196a363d0e63df3867800ab92e3f546575ed",
+          "uuid": "b66c196a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/story-my-life-robusta-stump-banjigerrey-division",
+          "urlHash": "b671bfa6f99694148fb50f30ee7bae19c86131f3",
+          "uuid": "b671bfa6-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/414",
+          "urlHash": "b90da3b512694b9335be6ca0839228c858c02e0f",
+          "uuid": "b90da3b5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/481",
+          "urlHash": "b9ccdc941b5e3b7a3ce9f83591120fa102221aaa",
+          "uuid": "b9ccdc94-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-08-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-begins-supplying-homegrown-blend-starbucks-globally",
+          "urlHash": "bb8cd3edac61144dcc7026f96c8a237727c91918",
+          "uuid": "bb8cd3ed-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/events/78th-agm-webcast",
+          "urlHash": "bc41bef7325bbf9037519120fc68baf1272a209e",
+          "uuid": "bc41bef7-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs",
+          "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+          "uuid": "bcf9bd99-04-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/495",
+          "urlHash": "be6e51c565a13a892a035ff3f82d00cbde7ba29e",
+          "uuid": "be6e51c5-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/diversification-tata-coffee",
+          "urlHash": "c09c52e4a6dbfdb69566d9417b7d3cddbfe679fb",
+          "uuid": "c09c52e4-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/shareholder-information-top-banner",
+          "urlHash": "c206e5ac827d8745e70c0f7322f02e93399d0027",
+          "uuid": "c206e5ac-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/593",
+          "urlHash": "c27473dc3a23fbf55d9376770aa424cbea4326ee",
+          "uuid": "c27473dc-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/when-simple-efforts-team-building-and-camaraderie-went-long-way-tata-coffee",
+          "urlHash": "c6857951c4d20d262df3ac9cdbf625bad16257fe",
+          "uuid": "c6857951-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/497",
+          "urlHash": "d5a510ed60a3b0f5d02fbed31eb006c67bfa9a48",
+          "uuid": "d5a510ed-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/investors-relations-top-banner",
+          "urlHash": "d692f66c52aa94604f6786e07e591341352f1e47",
+          "uuid": "d692f66c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/we-are-cups-constantly-and-quietly-being-filled",
+          "urlHash": "d76a3d7427a000eb78fbdacc435e98cc061b759a",
+          "uuid": "d76a3d74-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-md-addresses-international-spice-conference",
+          "urlHash": "d9274b4044a438f7e0fb1e4ff33926f11da1a112",
+          "uuid": "d9274b40-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/124",
+          "urlHash": "d9e8ca3a9599d131c2ecdcd3963078eb79d95b09",
+          "uuid": "d9e8ca3a-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/468",
+          "urlHash": "da60131e20e76eb57ff9efc3eb100621e14dcbed",
+          "uuid": "da60131e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/wildlife-cell",
+          "urlHash": "ded85072e1a996ee27d2b567b2426bcc73fb1cea",
+          "uuid": "ded85072-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/562",
+          "urlHash": "e39226d1cbc29992e4e92a7cc344551c57809776",
+          "uuid": "e39226d1-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/curated-best-plantations",
+          "urlHash": "e461828276bf09919a9ee00039ba558cbfda775e",
+          "uuid": "e4618282-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/day-life-tata-coffee-customer",
+          "urlHash": "e52a469c12ecdcf44bf35fb448fc43f08f43b245",
+          "uuid": "e52a469c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/496",
+          "urlHash": "e67e694e93e41e4d5124bc996064b261bbc943cb",
+          "uuid": "e67e694e-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-37-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/three-tata-coffee-pepper-nurseries-accredited-dasd",
+          "urlHash": "f116e951e7ec9cdeacd202b4df880921e5115dd9",
+          "uuid": "f116e951-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/415",
+          "urlHash": "f265262cbd593aa821feeef47e5f2a97c0d40e57",
+          "uuid": "f265262c-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/561",
+          "urlHash": "f2d458158097f63808be93c556236c000b214452",
+          "uuid": "f2d45815-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-launches-e-commerce-platform",
+          "urlHash": "f474c0211f4fba1fb032f6fbed094c73ad765f20",
+          "uuid": "f474c021-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-14-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/arr-carbon-project",
+          "urlHash": "f911be1d204937910f8aa73728fe315b488b6234",
+          "uuid": "f911be1d-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages8)",
+      "key": "cardsNoImages8",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/investors-relations",
+          "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+          "uuid": "22e38be4-05-6567a661ef0e715ae2662e472dc90fda64d69bfa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 9,
+      "source": "Header",
+      "target": "Header (header9)",
+      "key": "header9",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news-entry/best-green-business-award-et-now",
+          "urlHash": "00635b0f24cba9be357184e83ca530caccb83506",
+          "uuid": "00635b0f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news",
+          "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+          "uuid": "01938c1e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-signs-management-contract-ihcl-launch-ama-trails",
+          "urlHash": "01a22af854ebe0f39f4a008441a29e5b80b8bd68",
+          "uuid": "01a22af8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+          "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+          "uuid": "01fa9dba-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/land-new-beginnings",
+          "urlHash": "0342160739dde5bca6c3c4809af9f4e6ee159015",
+          "uuid": "03421607-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/sitemap",
+          "urlHash": "044feb8595e401c38f164d5267d7d1ebbaa06edc",
+          "uuid": "044feb85-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/494",
+          "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+          "uuid": "04c0f05b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/383",
+          "urlHash": "0535ef77bb63d44b09a2cc9716935f5767434b4d",
+          "uuid": "0535ef77-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/500",
+          "urlHash": "0bfdb50b5ad7d61921676ed3c7a8384796263a8d",
+          "uuid": "0bfdb50b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/world-famously-yet-homely",
+          "urlHash": "1200e1511e6ff4c330cf2a7b5d7c27d961ad7ad5",
+          "uuid": "1200e151-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/118",
+          "urlHash": "132b9ee5648f7f4d5989cc2715b707e7b4288db4",
+          "uuid": "132b9ee5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/465",
+          "urlHash": "14b0996a7dd478c80fba511ac50fa72610ef579e",
+          "uuid": "14b0996a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rd-laboratory",
+          "urlHash": "1b7e1afe069aef41d1b097a290657ad59222c363",
+          "uuid": "1b7e1afe-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/79",
+          "urlHash": "1c09008b86353060ed5e91357495bb54d992b120",
+          "uuid": "1c09008b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/contact-us",
+          "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+          "uuid": "1d2dd80e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy",
+          "urlHash": "1ff6c49f79122992d4f4bc39a266914a75fcf61e",
+          "uuid": "1ff6c49f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/investors-relations",
+          "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+          "uuid": "22e38be4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/pepper-vines-and-coffee-beans",
+          "urlHash": "274efdb0d75c770a0e57ff0ad2509f0627e28b4c",
+          "uuid": "274efdb0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rural-india-health-project-rihp-aligned-sustainable-development-goal-3-set-united-nations",
+          "urlHash": "28cf1e964d191217d0a62242ba08e9b04ab5cc10",
+          "uuid": "28cf1e96-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/basic-page/mission-and-values",
+          "urlHash": "2bdbf799b66024d51b662f8e2ce0975a7474a57f",
+          "uuid": "2bdbf799-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/town-so-quaint-and-serene",
+          "urlHash": "2d103f616be32118bde0d81b33047cf69f8df758",
+          "uuid": "2d103f61-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/bountiful-pure",
+          "urlHash": "2e3e9a07df950ffa254a6b029a355c27c747371a",
+          "uuid": "2e3e9a07-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/490",
+          "urlHash": "2e77c2dfca64e87193bd0c8f78c6a51a29c249c8",
+          "uuid": "2e77c2df-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/proud-have-our-mylemoney-estate-feature-nespressos-explorations-2018",
+          "urlHash": "3f8ee28b9b24b5d7e1b6687b4cea6491090c8369",
+          "uuid": "3f8ee28b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/130",
+          "urlHash": "453b788a3deebf5e1af7ccf312f6ab288b53f52c",
+          "uuid": "453b788a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=2",
+          "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+          "uuid": "45a17b29-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=1",
+          "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+          "uuid": "45d34465-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/382",
+          "urlHash": "49676dd76e003abb1abeb8297732fc6362a74fd0",
+          "uuid": "49676dd7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/482",
+          "urlHash": "50956ad30f6085b783c4896f4a53689790e4e328",
+          "uuid": "50956ad3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/887",
+          "urlHash": "519d82b2124a32340616cc60980864f7ebd946d0",
+          "uuid": "519d82b2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/483",
+          "urlHash": "552069dc2e32e76c23d5bbf76b9e8807e529b286",
+          "uuid": "552069dc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/indias-most-trusted-companies-awards-2017",
+          "urlHash": "55c5c442aa377b608b75b346fae9805783f8647d",
+          "uuid": "55c5c442-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/about-us/mission-and-values",
+          "urlHash": "58dbdb1d59ebd2aa38ef8301c0b155bdc594ace6",
+          "uuid": "58dbdb1d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/rain-water-harvesting",
+          "urlHash": "5d1215577c8fb03c507ae22327d87086bc78ca93",
+          "uuid": "5d121557-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-ernesto-illy-award-new-york-best-indian-coffee-producer",
+          "urlHash": "5fa9b5aae7009cd2d145536ccec809ce2590e72f",
+          "uuid": "5fa9b5aa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/cold-mountains-beckon",
+          "urlHash": "616cfadbc38d395b312c568bb86ba8ac1cb39cf2",
+          "uuid": "616cfadb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee%E2%80%99s-jumboor-estate-receives-honours-sixth-ernesto-illy-international-coffee",
+          "urlHash": "63354e999f6862a366f46798d10ce982895f82f2",
+          "uuid": "63354e99-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/888",
+          "urlHash": "6374fd01291f8b169c762eaea9d53e33a4085c59",
+          "uuid": "6374fd01-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/80",
+          "urlHash": "64136a633d356e083312c131deac95b008c43a8a",
+          "uuid": "64136a63-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/484",
+          "urlHash": "6694cc1bc5d7bf8c8c5050c3ddebd4c85155274f",
+          "uuid": "6694cc1b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/661",
+          "urlHash": "66dfcf263d62084cba833198c2402f7ceb4141df",
+          "uuid": "66dfcf26-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/sitemap",
+          "urlHash": "691c10d3c86da2f578342033ac2c4060b89f8c10",
+          "uuid": "691c10d3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/571",
+          "urlHash": "6c6395578ddbb4a419f3a465f32be48b9affbf41",
+          "uuid": "6c639557-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/567",
+          "urlHash": "6d3abd2edc7838ca03ad452b2ee520a5b3afe1dc",
+          "uuid": "6d3abd2e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/tata-coffee-employees-volunteered-create-bangalore-first-ever-community-garden",
+          "urlHash": "6f868bfd924c59daac1877bef64a78e606b0703d",
+          "uuid": "6f868bfd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/302",
+          "urlHash": "74a3249c31c9cce0e8940b0447d80812092e3a87",
+          "uuid": "74a3249c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/549",
+          "urlHash": "7686e2c04b7dcbfc64ec60e38e40f589e8d2e2f5",
+          "uuid": "7686e2c0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/690",
+          "urlHash": "77facb969b7a7545f1091901372ab0083a83cab4",
+          "uuid": "77facb96-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/so-full-mist-and-morning-light",
+          "urlHash": "7b7bcab21ed6230db917b56a76bc3825af9f9a97",
+          "uuid": "7b7bcab2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/570",
+          "urlHash": "7f50e8f9302b08f157e66363abb8ea995c449e3e",
+          "uuid": "7f50e8f9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/privacy-policy",
+          "urlHash": "7f7d8fef78848c553a347e0ec0d91e0feb9b1409",
+          "uuid": "7f7d8fef-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/cookies",
+          "urlHash": "7f82363d6f90c85f697f11dd885ac5dded3cec44",
+          "uuid": "7f82363d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-cii-award-workplace-safety",
+          "urlHash": "876734782f3289655af4e42f47a2bdfa90e0753d",
+          "uuid": "87673478-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/152",
+          "urlHash": "880ae795a8441adc8d23ff5a18bcc18967daecdc",
+          "uuid": "880ae795-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/469",
+          "urlHash": "8acf399bb184682efaf412c24eff935c66a5cfec",
+          "uuid": "8acf399b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/160",
+          "urlHash": "8d680b273fe35ca5934a597125c10030a7073435",
+          "uuid": "8d680b27-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/building-truly-sustainable-supply-chain",
+          "urlHash": "9219f7f0484565231128af2c8afa5c74a29071c8",
+          "uuid": "9219f7f0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news?page=1",
+          "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+          "uuid": "98d22ebf-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/where-gods-descend",
+          "urlHash": "a0bf52199b39ce6e9178338af59acfa39577074c",
+          "uuid": "a0bf5219-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/sustainable-coffee-challenge",
+          "urlHash": "a0f3613b77304cde3b2bd8a742bde69bcce9715e",
+          "uuid": "a0f3613b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/439",
+          "urlHash": "a23caca7440866f84a93398f8e34cd550f5a452d",
+          "uuid": "a23caca7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/looking-ahead-seeking-world-unseen",
+          "urlHash": "a2d03d602ae9674c5e84997885e272b79c2f90a7",
+          "uuid": "a2d03d60-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invoverview-top-header/investor-overview-banner-text",
+          "urlHash": "a906742a914ae0670a85443db41a90af5723da0e",
+          "uuid": "a906742a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/464",
+          "urlHash": "b1b19b4b6c62731275edf1c87ef92634ec5053bf",
+          "uuid": "b1b19b4b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/great-coffee-does-not-just-happen",
+          "urlHash": "b66c196a363d0e63df3867800ab92e3f546575ed",
+          "uuid": "b66c196a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/story-my-life-robusta-stump-banjigerrey-division",
+          "urlHash": "b671bfa6f99694148fb50f30ee7bae19c86131f3",
+          "uuid": "b671bfa6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/414",
+          "urlHash": "b90da3b512694b9335be6ca0839228c858c02e0f",
+          "uuid": "b90da3b5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/481",
+          "urlHash": "b9ccdc941b5e3b7a3ce9f83591120fa102221aaa",
+          "uuid": "b9ccdc94-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-begins-supplying-homegrown-blend-starbucks-globally",
+          "urlHash": "bb8cd3edac61144dcc7026f96c8a237727c91918",
+          "uuid": "bb8cd3ed-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/events/78th-agm-webcast",
+          "urlHash": "bc41bef7325bbf9037519120fc68baf1272a209e",
+          "uuid": "bc41bef7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs",
+          "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+          "uuid": "bcf9bd99-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/495",
+          "urlHash": "be6e51c565a13a892a035ff3f82d00cbde7ba29e",
+          "uuid": "be6e51c5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/diversification-tata-coffee",
+          "urlHash": "c09c52e4a6dbfdb69566d9417b7d3cddbfe679fb",
+          "uuid": "c09c52e4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/shareholder-information-top-banner",
+          "urlHash": "c206e5ac827d8745e70c0f7322f02e93399d0027",
+          "uuid": "c206e5ac-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/593",
+          "urlHash": "c27473dc3a23fbf55d9376770aa424cbea4326ee",
+          "uuid": "c27473dc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/when-simple-efforts-team-building-and-camaraderie-went-long-way-tata-coffee",
+          "urlHash": "c6857951c4d20d262df3ac9cdbf625bad16257fe",
+          "uuid": "c6857951-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/497",
+          "urlHash": "d5a510ed60a3b0f5d02fbed31eb006c67bfa9a48",
+          "uuid": "d5a510ed-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/invinnerpage-top-header/investors-relations-top-banner",
+          "urlHash": "d692f66c52aa94604f6786e07e591341352f1e47",
+          "uuid": "d692f66c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/we-are-cups-constantly-and-quietly-being-filled",
+          "urlHash": "d76a3d7427a000eb78fbdacc435e98cc061b759a",
+          "uuid": "d76a3d74-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-md-addresses-international-spice-conference",
+          "urlHash": "d9274b4044a438f7e0fb1e4ff33926f11da1a112",
+          "uuid": "d9274b40-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/124",
+          "urlHash": "d9e8ca3a9599d131c2ecdcd3963078eb79d95b09",
+          "uuid": "d9e8ca3a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/468",
+          "urlHash": "da60131e20e76eb57ff9efc3eb100621e14dcbed",
+          "uuid": "da60131e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/wildlife-cell",
+          "urlHash": "ded85072e1a996ee27d2b567b2426bcc73fb1cea",
+          "uuid": "ded85072-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/562",
+          "urlHash": "e39226d1cbc29992e4e92a7cc344551c57809776",
+          "uuid": "e39226d1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/curated-best-plantations",
+          "urlHash": "e461828276bf09919a9ee00039ba558cbfda775e",
+          "uuid": "e4618282-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/day-life-tata-coffee-customer",
+          "urlHash": "e52a469c12ecdcf44bf35fb448fc43f08f43b245",
+          "uuid": "e52a469c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/496",
+          "urlHash": "e67e694e93e41e4d5124bc996064b261bbc943cb",
+          "uuid": "e67e694e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/blog-entry/three-tata-coffee-pepper-nurseries-accredited-dasd",
+          "urlHash": "f116e951e7ec9cdeacd202b4df880921e5115dd9",
+          "uuid": "f116e951-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/415",
+          "urlHash": "f265262cbd593aa821feeef47e5f2a97c0d40e57",
+          "uuid": "f265262c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/561",
+          "urlHash": "f2d458158097f63808be93c556236c000b214452",
+          "uuid": "f2d45815-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/tata-coffee-launches-e-commerce-platform",
+          "urlHash": "f474c0211f4fba1fb032f6fbed094c73ad765f20",
+          "uuid": "f474c021-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news-entry/arr-carbon-project",
+          "urlHash": "f911be1d204937910f8aa73728fe315b488b6234",
+          "uuid": "f911be1d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 10,
+      "source": "Carousel",
+      "target": "Carousel (carousel10)",
+      "key": "carousel10",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-06-d6139ca42588f740286406fe37ae21f14995bf6d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns block",
+      "target": "Columns block (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-07-7878277ee3f27ac46e32505a39e72acf091b57f5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 12,
+      "source": "Carousel",
+      "target": "Carousel (carousel12)",
+      "key": "carousel12",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-01-c06cfe17ae9a6c2c5f14f5169404343b81a2826d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news",
+          "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+          "uuid": "01938c1e-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=2",
+          "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+          "uuid": "45a17b29-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=1",
+          "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+          "uuid": "45d34465-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/news?page=1",
+          "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+          "uuid": "98d22ebf-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/our-blogs",
+          "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+          "uuid": "bcf9bd99-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 14,
+      "source": "Header",
+      "target": "Header (header14)",
+      "key": "header14",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-00-39688f440a8d5a71e284ae1af60a2b0cdc8aca48",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+          "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+          "uuid": "01fa9dba-03-73c96aae01c42deb1fb37c1445a639a364e18cb6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.tatacoffee.com/node/494",
+          "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+          "uuid": "04c0f05b-03-73c96aae01c42deb1fb37c1445a639a364e18cb6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-12-dd7ef2c74d80df532c72d5764b2842da26a0185e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 16,
+      "source": "Columns block",
+      "target": "Columns block (columns16)",
+      "key": "columns16",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-02-254d2066a1cdac68730e1c95f49fa203c1363957",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages17)",
+      "key": "cardsNoImages17",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-07-dabdd4b57e966e2be13d39aea5eb367f8d0cc763",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "source": "Columns",
+      "target": "Columns (columns18)",
+      "key": "columns18",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/contact-us",
+          "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+          "uuid": "1d2dd80e-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 19,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages19)",
+      "key": "cardsNoImages19",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-07-dabdd4b57e966e2be13d39aea5eb367f8d0cc763",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/div[1]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-09-42c52f5833d235ce35b970c53da2c9d089911759",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "source": "Cards",
+      "target": "Cards (cards20)",
+      "key": "cards20",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/our-blogs?page=2",
+          "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+          "uuid": "45a17b29-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-28-ccc286d72ec9ae7e6d67aa621f034c037cabf85e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[29]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns block",
+      "target": "Columns block (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-03-00bf118929b129bcdb7aa02ee84f5a3d872d12ba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 23,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages23)",
+      "key": "cardsNoImages23",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-19-8c2ef3d09b763cafe12bc8f78335669aa2fefe66",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[19]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns block",
+      "target": "Columns block (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-04-d1876378f78c822e2f8a22673eb1c696adabacd3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.tatacoffee.com/pepper",
+          "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+          "uuid": "b9d8a536-05-af3dcd364136c4ddf44547118b47b3413edaa276",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages25)",
+      "key": "cardsNoImages25",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-09-42c52f5833d235ce35b970c53da2c9d089911759",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 26,
+      "source": "Cards",
+      "target": "Cards (cards26)",
+      "key": "cards26",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news",
+          "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+          "uuid": "01938c1e-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 27,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages27)",
+      "key": "cardsNoImages27",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-17-481b167106aa6571b11eb161d1c3a061521f27fb",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[17]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 28,
+      "source": "Columns",
+      "target": "Columns (columns28)",
+      "key": "columns28",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-03-00bf118929b129bcdb7aa02ee84f5a3d872d12ba",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-09-dabdd4b57e966e2be13d39aea5eb367f8d0cc763",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 30,
+      "source": "Columns block",
+      "target": "Columns block (columns30)",
+      "key": "columns30",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-11-450eb2cfa0ec87dd1dff4ad3bc73dd8730beb8c8",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 31,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages31)",
+      "key": "cardsNoImages31",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-03-6699a048921272a92c5656f7800bf022ab643cfe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages32)",
+      "key": "cardsNoImages32",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-35-23f63857b715bfbe895bb12aa448ea5980c83efb",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 33,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages33)",
+      "key": "cardsNoImages33",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-03-6699a048921272a92c5656f7800bf022ab643cfe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "source": "Columns block",
+      "target": "Columns block (columns34)",
+      "key": "columns34",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-10-5b4924a8b9870a29bd83b28d9061250fadcd216b",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[15]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 36,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages36)",
+      "key": "cardsNoImages36",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-11-75f1bfa6eef85302cc129308583b0350810208fa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 37,
+      "source": "Hero",
+      "target": "Hero (hero37)",
+      "key": "hero37",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/",
+          "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+          "uuid": "86f063ed-03-8bfa78c78895f5ff0735d7e70e0f012342aac1e6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[4]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 38,
+      "source": "Columns block",
+      "target": "Columns block (columns38)",
+      "key": "columns38",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-05-6bcb20d60a0806ab479f511d2e8405a393cdd013",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 39,
+      "source": "Cards",
+      "target": "Cards (cards39)",
+      "key": "cards39",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/careers",
+          "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+          "uuid": "50d89034-06-d6139ca42588f740286406fe37ae21f14995bf6d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 40,
+      "source": "Carousel",
+      "target": "Carousel (carousel40)",
+      "key": "carousel40",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/green-beans",
+          "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+          "uuid": "f4e9f2da-04-15eaf656cdf4934fe9cfdd6928f685d6436da18c",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 41,
+      "source": "Columns",
+      "target": "Columns (columns41)",
+      "key": "columns41",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors",
+          "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+          "uuid": "b2296e66-05-d1876378f78c822e2f8a22673eb1c696adabacd3",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 42,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages42)",
+      "key": "cardsNoImages42",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/investors-relations",
+          "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+          "uuid": "22e38be4-03-6699a048921272a92c5656f7800bf022ab643cfe",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 43,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages43)",
+      "key": "cardsNoImages43",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/overview",
+          "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+          "uuid": "32905d06-05-6567a661ef0e715ae2662e472dc90fda64d69bfa",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 44,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages44)",
+      "key": "cardsNoImages44",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-15-648e00ec2ccfb8822c53f018928a65ec16972b3e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[15]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 45,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages45)",
+      "key": "cardsNoImages45",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-21-b02a2556ea13eda0b1bb2bd623f12b1b6fe8bac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[21]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 46,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages46)",
+      "key": "cardsNoImages46",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-24-e0cedf114d8e4ad9a72cbe5febce0b052e30556a",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[25]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 47,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages47)",
+      "key": "cardsNoImages47",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/investors/shareholder-information",
+          "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+          "uuid": "edab7b06-26-c741cba5874de7d1cb195ff156011af17afe2ddf",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[27]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 48,
+      "source": "Cards",
+      "target": "Cards (cards48)",
+      "key": "cards48",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/news?page=1",
+          "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+          "uuid": "98d22ebf-02-a672ef2cbeca90246caf5ae7f9975436a61b232e",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 49,
+      "source": "Columns block",
+      "target": "Columns block (columns49)",
+      "key": "columns49",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-04-b77082a16affbd7869ca1b49ad0978d921ae64b4",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 50,
+      "source": "Hero",
+      "target": "Hero (hero50)",
+      "key": "hero50",
+      "instances": [
+        {
+          "url": "https://www.tatacoffee.com/sustainability",
+          "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+          "uuid": "346d4951-05-b51cbac306a1775a00c00ca5f8274c240a5a502d",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.tatacoffee.com/news-entry/best-green-business-award-et-now",
+      "urlHash": "00635b0f24cba9be357184e83ca530caccb83506",
+      "uuid": "00635b0f-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news",
+      "urlHash": "01938c1e7eac7f5de54c76cd98b61078bfe48547",
+      "uuid": "01938c1e-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee-signs-management-contract-ihcl-launch-ama-trails",
+      "urlHash": "01a22af854ebe0f39f4a008441a29e5b80b8bd68",
+      "uuid": "01a22af8-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+      "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+      "uuid": "01fa9dba-01-2a4405e8caeedc4382ba876a12d9fc5bf47d8977",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/h1[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/basic-page/green-beans-modal-form",
+      "urlHash": "01fa9dbae5956bd1e36ae427ecd4d86b9640eb8e",
+      "uuid": "01fa9dba-02-07a13db420390e1a06c7e8d5a48bb317f2150d9d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/land-new-beginnings",
+      "urlHash": "0342160739dde5bca6c3c4809af9f4e6ee159015",
+      "uuid": "03421607-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/basic-page/sitemap",
+      "urlHash": "044feb8595e401c38f164d5267d7d1ebbaa06edc",
+      "uuid": "044feb85-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/494",
+      "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+      "uuid": "04c0f05b-01-2a4405e8caeedc4382ba876a12d9fc5bf47d8977",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/h1[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/494",
+      "urlHash": "04c0f05b0e30b2a94d8aaddd799342e2a5cb6911",
+      "uuid": "04c0f05b-02-07a13db420390e1a06c7e8d5a48bb317f2150d9d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/383",
+      "urlHash": "0535ef77bb63d44b09a2cc9716935f5767434b4d",
+      "uuid": "0535ef77-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/500",
+      "urlHash": "0bfdb50b5ad7d61921676ed3c7a8384796263a8d",
+      "uuid": "0bfdb50b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/world-famously-yet-homely",
+      "urlHash": "1200e1511e6ff4c330cf2a7b5d7c27d961ad7ad5",
+      "uuid": "1200e151-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/118",
+      "urlHash": "132b9ee5648f7f4d5989cc2715b707e7b4288db4",
+      "uuid": "132b9ee5-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/465",
+      "urlHash": "14b0996a7dd478c80fba511ac50fa72610ef579e",
+      "uuid": "14b0996a-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/rd-laboratory",
+      "urlHash": "1b7e1afe069aef41d1b097a290657ad59222c363",
+      "uuid": "1b7e1afe-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/79",
+      "urlHash": "1c09008b86353060ed5e91357495bb54d992b120",
+      "uuid": "1c09008b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/contact-us",
+      "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+      "uuid": "1d2dd80e-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/contact-us",
+      "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+      "uuid": "1d2dd80e-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/contact-us",
+      "urlHash": "1d2dd80ec56725e9edc7938d768927c68135ff67",
+      "uuid": "1d2dd80e-04-00bf118929b129bcdb7aa02ee84f5a3d872d12ba",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/privacy",
+      "urlHash": "1ff6c49f79122992d4f4bc39a266914a75fcf61e",
+      "uuid": "1ff6c49f-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/investors-relations",
+      "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+      "uuid": "22e38be4-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/investors-relations",
+      "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+      "uuid": "22e38be4-02-3dc19349dc70970b14ba77a495296378ebba716a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/investors-relations",
+      "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+      "uuid": "22e38be4-04-0ce95ae0cae87d6dae1c29fe11a58e5f8ace4b73",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/investors-relations",
+      "urlHash": "22e38be4653984269e5211ec9a0d3bd305d13945",
+      "uuid": "22e38be4-06-b77082a16affbd7869ca1b49ad0978d921ae64b4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/pepper-vines-and-coffee-beans",
+      "urlHash": "274efdb0d75c770a0e57ff0ad2509f0627e28b4c",
+      "uuid": "274efdb0-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/rural-india-health-project-rihp-aligned-sustainable-development-goal-3-set-united-nations",
+      "urlHash": "28cf1e964d191217d0a62242ba08e9b04ab5cc10",
+      "uuid": "28cf1e96-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/basic-page/mission-and-values",
+      "urlHash": "2bdbf799b66024d51b662f8e2ce0975a7474a57f",
+      "uuid": "2bdbf799-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/town-so-quaint-and-serene",
+      "urlHash": "2d103f616be32118bde0d81b33047cf69f8df758",
+      "uuid": "2d103f61-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/bountiful-pure",
+      "urlHash": "2e3e9a07df950ffa254a6b029a355c27c747371a",
+      "uuid": "2e3e9a07-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/490",
+      "urlHash": "2e77c2dfca64e87193bd0c8f78c6a51a29c249c8",
+      "uuid": "2e77c2df-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-02-6e892645b910bfbc28d6f68c72011a1750e82d9e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/h1[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-04-d81f4a340906688236251557118e601ff90916bf",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/h1[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-06-c6937078191bfddce11588f7977560f51a2a0aab",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-08-5495a5dc886b694cae5ba25f8ce4916ba1a2d946",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-10-3fb09c4720b4d5f1033ef4cfd7016855bfdc3dc4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/overview",
+      "urlHash": "32905d0652ed5657352ffe33176d0b00f7f1d8b0",
+      "uuid": "32905d06-12-0e1fc3cf1f4eb301dfab98463e0bbf46837b96eb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/sustainability",
+      "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+      "uuid": "346d4951-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/sustainability",
+      "urlHash": "346d49518b1615cf36d92534d8e309a8bdc99dd6",
+      "uuid": "346d4951-06-90fbe22d28f33529cd66f286209bbb93d19a2ac5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/proud-have-our-mylemoney-estate-feature-nespressos-explorations-2018",
+      "urlHash": "3f8ee28b9b24b5d7e1b6687b4cea6491090c8369",
+      "uuid": "3f8ee28b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/130",
+      "urlHash": "453b788a3deebf5e1af7ccf312f6ab288b53f52c",
+      "uuid": "453b788a-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/our-blogs?page=2",
+      "urlHash": "45a17b29a5c3fc2f188240069b5d3153726092de",
+      "uuid": "45a17b29-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/our-blogs?page=1",
+      "urlHash": "45d344654f57c54e45567a453a883fe3ba1e8728",
+      "uuid": "45d34465-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/382",
+      "urlHash": "49676dd76e003abb1abeb8297732fc6362a74fd0",
+      "uuid": "49676dd7-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/482",
+      "urlHash": "50956ad30f6085b783c4896f4a53689790e4e328",
+      "uuid": "50956ad3-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/careers",
+      "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+      "uuid": "50d89034-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/careers",
+      "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+      "uuid": "50d89034-02-254d2066a1cdac68730e1c95f49fa203c1363957",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/careers",
+      "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+      "uuid": "50d89034-04-8c592d601493b43a1a1488365b1153521960d7be",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/careers",
+      "urlHash": "50d8903471fe5490bc32f37d74415c09ff23104e",
+      "uuid": "50d89034-07-7878277ee3f27ac46e32505a39e72acf091b57f5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/887",
+      "urlHash": "519d82b2124a32340616cc60980864f7ebd946d0",
+      "uuid": "519d82b2-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/483",
+      "urlHash": "552069dc2e32e76c23d5bbf76b9e8807e529b286",
+      "uuid": "552069dc-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/indias-most-trusted-companies-awards-2017",
+      "urlHash": "55c5c442aa377b608b75b346fae9805783f8647d",
+      "uuid": "55c5c442-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/about-us/mission-and-values",
+      "urlHash": "58dbdb1d59ebd2aa38ef8301c0b155bdc594ace6",
+      "uuid": "58dbdb1d-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/rain-water-harvesting",
+      "urlHash": "5d1215577c8fb03c507ae22327d87086bc78ca93",
+      "uuid": "5d121557-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-ernesto-illy-award-new-york-best-indian-coffee-producer",
+      "urlHash": "5fa9b5aae7009cd2d145536ccec809ce2590e72f",
+      "uuid": "5fa9b5aa-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/cold-mountains-beckon",
+      "urlHash": "616cfadbc38d395b312c568bb86ba8ac1cb39cf2",
+      "uuid": "616cfadb-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee%E2%80%99s-jumboor-estate-receives-honours-sixth-ernesto-illy-international-coffee",
+      "urlHash": "63354e999f6862a366f46798d10ce982895f82f2",
+      "uuid": "63354e99-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/888",
+      "urlHash": "6374fd01291f8b169c762eaea9d53e33a4085c59",
+      "uuid": "6374fd01-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/80",
+      "urlHash": "64136a633d356e083312c131deac95b008c43a8a",
+      "uuid": "64136a63-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/484",
+      "urlHash": "6694cc1bc5d7bf8c8c5050c3ddebd4c85155274f",
+      "uuid": "6694cc1b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/661",
+      "urlHash": "66dfcf263d62084cba833198c2402f7ceb4141df",
+      "uuid": "66dfcf26-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/sitemap",
+      "urlHash": "691c10d3c86da2f578342033ac2c4060b89f8c10",
+      "uuid": "691c10d3-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/571",
+      "urlHash": "6c6395578ddbb4a419f3a465f32be48b9affbf41",
+      "uuid": "6c639557-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/567",
+      "urlHash": "6d3abd2edc7838ca03ad452b2ee520a5b3afe1dc",
+      "uuid": "6d3abd2e-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/tata-coffee-employees-volunteered-create-bangalore-first-ever-community-garden",
+      "urlHash": "6f868bfd924c59daac1877bef64a78e606b0703d",
+      "uuid": "6f868bfd-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/302",
+      "urlHash": "74a3249c31c9cce0e8940b0447d80812092e3a87",
+      "uuid": "74a3249c-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/549",
+      "urlHash": "7686e2c04b7dcbfc64ec60e38e40f589e8d2e2f5",
+      "uuid": "7686e2c0-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/690",
+      "urlHash": "77facb969b7a7545f1091901372ab0083a83cab4",
+      "uuid": "77facb96-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/so-full-mist-and-morning-light",
+      "urlHash": "7b7bcab21ed6230db917b56a76bc3825af9f9a97",
+      "uuid": "7b7bcab2-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/570",
+      "urlHash": "7f50e8f9302b08f157e66363abb8ea995c449e3e",
+      "uuid": "7f50e8f9-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/privacy-policy",
+      "urlHash": "7f7d8fef78848c553a347e0ec0d91e0feb9b1409",
+      "uuid": "7f7d8fef-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/cookies",
+      "urlHash": "7f82363d6f90c85f697f11dd885ac5dded3cec44",
+      "uuid": "7f82363d-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/",
+      "urlHash": "86f063ed29b314c4d2d27dbe98555cff7eb538a1",
+      "uuid": "86f063ed-04-665849d12db9bea220743fe33f0e5790fd8a6e36",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[5]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee-wins-cii-award-workplace-safety",
+      "urlHash": "876734782f3289655af4e42f47a2bdfa90e0753d",
+      "uuid": "87673478-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/152",
+      "urlHash": "880ae795a8441adc8d23ff5a18bcc18967daecdc",
+      "uuid": "880ae795-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/469",
+      "urlHash": "8acf399bb184682efaf412c24eff935c66a5cfec",
+      "uuid": "8acf399b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/160",
+      "urlHash": "8d680b273fe35ca5934a597125c10030a7073435",
+      "uuid": "8d680b27-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/building-truly-sustainable-supply-chain",
+      "urlHash": "9219f7f0484565231128af2c8afa5c74a29071c8",
+      "uuid": "9219f7f0-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news?page=1",
+      "urlHash": "98d22ebf1ccc6bdded915dc54a4d4ec2da733e7e",
+      "uuid": "98d22ebf-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/where-gods-descend",
+      "urlHash": "a0bf52199b39ce6e9178338af59acfa39577074c",
+      "uuid": "a0bf5219-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/sustainable-coffee-challenge",
+      "urlHash": "a0f3613b77304cde3b2bd8a742bde69bcce9715e",
+      "uuid": "a0f3613b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/439",
+      "urlHash": "a23caca7440866f84a93398f8e34cd550f5a452d",
+      "uuid": "a23caca7-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/looking-ahead-seeking-world-unseen",
+      "urlHash": "a2d03d602ae9674c5e84997885e272b79c2f90a7",
+      "uuid": "a2d03d60-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/invoverview-top-header/investor-overview-banner-text",
+      "urlHash": "a906742a914ae0670a85443db41a90af5723da0e",
+      "uuid": "a906742a-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/464",
+      "urlHash": "b1b19b4b6c62731275edf1c87ef92634ec5053bf",
+      "uuid": "b1b19b4b-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors",
+      "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+      "uuid": "b2296e66-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors",
+      "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+      "uuid": "b2296e66-03-c8c8e32ba2cae83fb7f4368e990e700e020a3067",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors",
+      "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+      "uuid": "b2296e66-04-9a5e0ce329a7299a692788ca6255fd625f4a4659",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors",
+      "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+      "uuid": "b2296e66-06-af3dcd364136c4ddf44547118b47b3413edaa276",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors",
+      "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+      "uuid": "b2296e66-07-b227717498bc80c3f6eb8be77987b27ee9edb4a6",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors",
+      "urlHash": "b2296e6630b3c3d63046e6ca62a84886d4d2859c",
+      "uuid": "b2296e66-08-c6937078191bfddce11588f7977560f51a2a0aab",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/great-coffee-does-not-just-happen",
+      "urlHash": "b66c196a363d0e63df3867800ab92e3f546575ed",
+      "uuid": "b66c196a-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/story-my-life-robusta-stump-banjigerrey-division",
+      "urlHash": "b671bfa6f99694148fb50f30ee7bae19c86131f3",
+      "uuid": "b671bfa6-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/414",
+      "urlHash": "b90da3b512694b9335be6ca0839228c858c02e0f",
+      "uuid": "b90da3b5-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/481",
+      "urlHash": "b9ccdc941b5e3b7a3ce9f83591120fa102221aaa",
+      "uuid": "b9ccdc94-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/pepper",
+      "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+      "uuid": "b9d8a536-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/pepper",
+      "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+      "uuid": "b9d8a536-02-254d2066a1cdac68730e1c95f49fa203c1363957",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/pepper",
+      "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+      "uuid": "b9d8a536-03-9a5e0ce329a7299a692788ca6255fd625f4a4659",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/pepper",
+      "urlHash": "b9d8a536f58939dc40dde3d2fa207a98b02b061b",
+      "uuid": "b9d8a536-07-37a26bf0c9e2e2825cc8e82ed61045f99edc3fc8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee-begins-supplying-homegrown-blend-starbucks-globally",
+      "urlHash": "bb8cd3edac61144dcc7026f96c8a237727c91918",
+      "uuid": "bb8cd3ed-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/events/78th-agm-webcast",
+      "urlHash": "bc41bef7325bbf9037519120fc68baf1272a209e",
+      "uuid": "bc41bef7-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/our-blogs",
+      "urlHash": "bcf9bd99eefef127c26304ee0c2456c130c5ba21",
+      "uuid": "bcf9bd99-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/495",
+      "urlHash": "be6e51c565a13a892a035ff3f82d00cbde7ba29e",
+      "uuid": "be6e51c5-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/diversification-tata-coffee",
+      "urlHash": "c09c52e4a6dbfdb69566d9417b7d3cddbfe679fb",
+      "uuid": "c09c52e4-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/invinnerpage-top-header/shareholder-information-top-banner",
+      "urlHash": "c206e5ac827d8745e70c0f7322f02e93399d0027",
+      "uuid": "c206e5ac-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/593",
+      "urlHash": "c27473dc3a23fbf55d9376770aa424cbea4326ee",
+      "uuid": "c27473dc-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/when-simple-efforts-team-building-and-camaraderie-went-long-way-tata-coffee",
+      "urlHash": "c6857951c4d20d262df3ac9cdbf625bad16257fe",
+      "uuid": "c6857951-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/497",
+      "urlHash": "d5a510ed60a3b0f5d02fbed31eb006c67bfa9a48",
+      "uuid": "d5a510ed-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/invinnerpage-top-header/investors-relations-top-banner",
+      "urlHash": "d692f66c52aa94604f6786e07e591341352f1e47",
+      "uuid": "d692f66c-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/we-are-cups-constantly-and-quietly-being-filled",
+      "urlHash": "d76a3d7427a000eb78fbdacc435e98cc061b759a",
+      "uuid": "d76a3d74-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee-md-addresses-international-spice-conference",
+      "urlHash": "d9274b4044a438f7e0fb1e4ff33926f11da1a112",
+      "uuid": "d9274b40-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/124",
+      "urlHash": "d9e8ca3a9599d131c2ecdcd3963078eb79d95b09",
+      "uuid": "d9e8ca3a-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/468",
+      "urlHash": "da60131e20e76eb57ff9efc3eb100621e14dcbed",
+      "uuid": "da60131e-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/wildlife-cell",
+      "urlHash": "ded85072e1a996ee27d2b567b2426bcc73fb1cea",
+      "uuid": "ded85072-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/562",
+      "urlHash": "e39226d1cbc29992e4e92a7cc344551c57809776",
+      "uuid": "e39226d1-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/curated-best-plantations",
+      "urlHash": "e461828276bf09919a9ee00039ba558cbfda775e",
+      "uuid": "e4618282-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/day-life-tata-coffee-customer",
+      "urlHash": "e52a469c12ecdcf44bf35fb448fc43f08f43b245",
+      "uuid": "e52a469c-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/496",
+      "urlHash": "e67e694e93e41e4d5124bc996064b261bbc943cb",
+      "uuid": "e67e694e-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-02-3dc19349dc70970b14ba77a495296378ebba716a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-04-0ce95ae0cae87d6dae1c29fe11a58e5f8ace4b73",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[5]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-06-c6937078191bfddce11588f7977560f51a2a0aab",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-08-5495a5dc886b694cae5ba25f8ce4916ba1a2d946",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[9]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-10-0bafd623ba2b22af7cc1c2cb0f48b9a2cfb0ad49",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[11]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-12-fb349d1dc1603ffc7d33ea3c4f9121c861ccd802",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[13]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-14-f3f76942611f9d530558ee741aa062f9b868699a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[15]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-16-f1764990029fb90e34f8ff8a6640f39d8bee49b3",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[17]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-18-2f8982898b4357abc63023a07aa16a5112be7a6a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[19]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-20-1f7db4e8c52689cae5e88c1b51d121c947a295ca",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[21]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-22-163bcad7070672199ca410246c6e6f178795dd6a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[23]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-23-5abc9ea4bfd79a7d258bd98639ba344052b9bc4e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[25]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-25-1f4f12fedb4b357aa78c17557aeed84461419b77",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[27]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-27-180259bf33aed7504b8856cba0a0d149de10b2a5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[29]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-29-a048b0321ac30e7c2155df77cc775d5fbb4605e2",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/h2[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-30-6664443509859fb1be369ca18a37f415e745f7d0",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/div[1]/div[1]/div[1]/h3[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-31-834933c4e0c39623b3da574492f0a9df0a9044b5",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-32-5fc7fc1c3b1b3db0cbcb127824e2502e403b9cd1",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/div[1]/div[1]/div[1]/h3[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-33-0fada34cee95099f5af813195f703dfa91a27a2d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-34-0bd28017d5bfd964e5fdac10a2d3c761ae2866a1",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[31]/div[1]/div[1]/div[1]/h3[3]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/investors/shareholder-information",
+      "urlHash": "edab7b06e8b893e969c1f0d4706ca1d2201493d8",
+      "uuid": "edab7b06-36-fc902bad75ef083d9d700bf3e2673f39471a9d51",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[33]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/blog-entry/three-tata-coffee-pepper-nurseries-accredited-dasd",
+      "urlHash": "f116e951e7ec9cdeacd202b4df880921e5115dd9",
+      "uuid": "f116e951-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/415",
+      "urlHash": "f265262cbd593aa821feeef47e5f2a97c0d40e57",
+      "uuid": "f265262c-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/node/561",
+      "urlHash": "f2d458158097f63808be93c556236c000b214452",
+      "uuid": "f2d45815-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/tata-coffee-launches-e-commerce-platform",
+      "urlHash": "f474c0211f4fba1fb032f6fbed094c73ad765f20",
+      "uuid": "f474c021-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-01-49378e5389c70434996d05887180b4a1e62397a7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-02-254d2066a1cdac68730e1c95f49fa203c1363957",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-05-b77082a16affbd7869ca1b49ad0978d921ae64b4",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-08-d24078131331d64c125344e6994949ecb105f621",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-09-2b5eb4a23bf2f721c275f44b7eebf6edfd631d7a",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[13]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/img[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-11-e60b24bbbb119c00c95b55efc415953cdac45a87",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.tatacoffee.com/green-beans",
+      "urlHash": "f4e9f2da0e5d23f19adda5663ae4c7163d17694b",
+      "uuid": "f4e9f2da-13-37a26bf0c9e2e2825cc8e82ed61045f99edc3fc8",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/section[1]/div[1]/section[1]/div[1]/div[3]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.tatacoffee.com/news-entry/arr-carbon-project",
+      "urlHash": "f911be1d204937910f8aa73728fe315b488b6234",
+      "uuid": "f911be1d-01-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(51, 51, 51) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 100
+    },
+    {
+      "name": "section-2",
+      "background": "rgba(255, 255, 255, 0.9) url(\"https://www.tatacoffee.com/sites/default/files/green_beans.png\") no-repeat scroll 100% 100% / contain padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(204, 204, 204) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(229, 229, 229) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
